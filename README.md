@@ -29,7 +29,7 @@ Este espaço foi criado para acompanhar meu avanço durante o curso da [DIO](htt
 
 ## 📈 Progresso
 - [x] Introdução ao JavaScript  
-- [ ] Variáveis e Tipos de Dados  
+- [x] Variáveis e Tipos de Dados  
 - [ ] Funções e Escopos  
 - [ ] Objetos e Arrays  
 - [ ] DOM e Eventos  
